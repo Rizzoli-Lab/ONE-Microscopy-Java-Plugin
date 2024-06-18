@@ -22,13 +22,13 @@ Developed by **Abed Chouaib, University of Saarland, Homburg Saar, Germany**, fo
 
 # Installation guide
 
-To install ONE, kindly click [here](https://github.com/Rizzoli-Lab/ONE-Microscopy/releases) and grab the zip file for latest version available.
+To install ONE, kindly click [here](https://github.com/Rizzoli-Lab/ONE-Microscopy-Java-Plugin/releases) and grab the zip file for latest version available.
 
 >❗ **Note**: This plugin's dependencies use a newer version of xalan (v2.7.3) in order to function. Make sure there are no other instances of xalan present in the **jar** folder in Fiji's directory (e.g xalan v2.7.2 which is bundled with Fiji).
 
 >❗ **Note**: ONE includes/bundles an updated version of [NanoJ-Core](https://github.com/HenriquesLab/NanoJ-Core) and [NanoJ-SRRF](https://github.com/HenriquesLab/NanoJ-SRRF) that supports running on newer GPU drivers. If you already have **NanoJ_Core.jar, NanoJ_Updater.jar and NanoJ_SRRF.jar** inside the **plugins** folder, kindly remove them as they will result in conflicting files on Fiji's startup.
 
-After installing the zip file from [Releases](https://github.com/Rizzoli-Lab/ONE-Microscopy/releases) and extracting, place the folders/files as shown below:
+After installing the zip file from [Releases](https://github.com/Rizzoli-Lab/ONE-Microscopy-Java-Plugin/releases) and extracting, place the folders/files as shown below:
 
 > **Note**: "✔️" refers to files that should be added. "❌" refers to files that should be removed. 
 
