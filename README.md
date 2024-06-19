@@ -109,9 +109,9 @@ If all files were placed correctly in their respective folders, your list of plu
 | Integrate Temporal Correlations 	| Enabled   	| Should be kept on in cases where individual fluorophores can reappear at later frames in the video.                                                                  	|
 | Remove Positvity Constraint     	| Enabled  	| Removes Positivity Constraint by default. When ticked, it is used to increase contrast in single frame radiality analysis where temporal statistics are not applied. 	|
 | Renormalize                     	| Disabled 	| Enable when using 2D structures.                                                                                                                                     	|
-| Do Gradient Smoothing           	| Disabled 	| Activate in low density, adds a smoothing effect but decreases spatial resolution.                                                                                   	|
+| Do Gradient Smoothing           	| Enabled 	| Activate in low density, adds a smoothing effect but decreases spatial resolution.                                                                                   	|
 | Do Intensity Weighting          	| Enabled   	| Used to enhance radiality peaks resulting from high intensity regions.                                                                                               	|
-| Do Gradient Weighting           	| Disabled 	| Activate in low-SNR                                                                                                                                                  	|
+| Do Gradient Weighting           	| Enabled 	| Activate in low-SNR                                                                                                                                                  	|
 | Minimize SRRF Patterning        	| Enabled  	| Used to minimize patterning resulting from SRRF analysis                                                                                                             	|
 
 
