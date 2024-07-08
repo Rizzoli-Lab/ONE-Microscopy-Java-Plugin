@@ -30,28 +30,30 @@ To install ONE, kindly click [here](https://github.com/Rizzoli-Lab/ONE-Microscop
 
 After installing the zip file from [Releases](https://github.com/Rizzoli-Lab/ONE-Microscopy-Java-Plugin/releases) and extracting, place the folders/files as shown below:
 
-> **Note**: "✔️" refers to files that should be added. "❌" refers to files that should be removed. 
+> **Note**: "✔️" refers to files that should be added. "❌" refers to files that should be removed (if present). 
 
 ```
 .
 └── Fiji/
     ├── jars/
-    │   ├── ✔️aparapi.jar
-    │   ├── ✔️aparapi-jni.jar
-    │   ├── ✔️JGoogleAnalytics_0.4.jar
-    │   ├── ✔️JTransforms-3.1-with-dependencies.jar
-    │   ├── ✔️junit-4.8.1.jar
-    │   ├── ✔️xalan-2.7.3.jar
-    │   └── ❌xalan-2.7.x.jar
+    │   ├── ✔️ aparapi.jar
+    │   ├── ✔️ aparapi-jni.jar
+    │   ├── ✔️ JGoogleAnalytics_0.4.jar
+    │   ├── ✔️ JTransforms-3.1-with-dependencies.jar
+    │   ├── ✔️ junit-4.8.1.jar
+    │   ├── ✔️ xalan-2.7.3.jar
+    │   └── ❌ xalan-2.7.x.jar
     ├── luts/
-    │   ├── ✔️NanoJ-Orange.lut
-    │   ├── ✔️SQUIRREL-Errors.lut
-    │   └── ✔️SQUIRREL-FRC.lut
+    │   ├── ✔️ NanoJ-Orange.lut
+    │   ├── ✔️ SQUIRREL-Errors.lut
+    │   └── ✔️ SQUIRREL-FRC.lut
     └── plugins/
-        ├── ✔️ONE_Microscopy.jar
-        ├── ❌NanoJ_Core.jar
-        ├── ❌NanoJ_Updater.jar
-        └── ❌NanoJ_SRRF.jar
+        ├── ✔️ ONE_Microscopy.jar
+        ├── ✔️ Image_Stabilizer.class
+        ├── ✔️ Image_Stabilizer_Log_Applier.class
+        ├── ❌ NanoJ_Core.jar
+        ├── ❌ NanoJ_Updater.jar
+        └── ❌ NanoJ_SRRF.jar
         
 ```
 
