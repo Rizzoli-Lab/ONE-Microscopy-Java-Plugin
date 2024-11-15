@@ -123,7 +123,7 @@ If all files were placed correctly in their respective folders, your list of plu
 
 Upon using, modifying or incorporating parts of ONE Platform, please cite the following reference:
 
-> Shaib <i>et al.</i> Visualizing proteins by expansion microscopy, 2022. BioRxivs https://doi.org/10.1101/2022.08.03.502284
+> Shaib <i>et al.</i> One-step nanoscale expansion microscopy reveals individual protein shapes. Nat Biotechnol (2024). https://doi.org/10.1038/s41587-024-02431-9
 			
 The software relies on the following open-source algorithms that we highly recommend to cite:
 
